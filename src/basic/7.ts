@@ -26,3 +26,5 @@ const page2: Pages = {
   accounts: ["Alex"],
   status: "close",
 };
+
+const jjjjjj = {};
